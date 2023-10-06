@@ -1,5 +1,5 @@
 import java.util.*;
-public class two {
+class missingnumber {
 
     static int miss_no(int n,int arr[]){
 
