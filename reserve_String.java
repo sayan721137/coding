@@ -3,7 +3,7 @@ import java.io.*;
 
 
 
-class Main{
+class revstring{
     static void reverse(String s){
         
 
