@@ -20,7 +20,106 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📐 Turning Complex Problems into Simple Solutions ✅
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
-- [![Facebook Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Facebook&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
+  <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/linkedin.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/fluency/48/null/instagram-new.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/color/50/null/tailwindcss.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/sass.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/plasticine/50/null/react.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/nodejs.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/fluency/49/null/express-js.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/python--v1.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+    <a href="URL_REDIRECT" target="blank">
+      <img
+        src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"
+        align="center"
+        height="50"
+        width="50"
+      />
+    </a>
+  </body>
+</html>
 
 
 ---
