@@ -71,10 +71,14 @@ These instructions will get you a copy of the project up and running on your loc
 To get started with this repository, follow these simple steps:
 
 #### Clone the Repository:
-Say what the step will be
+-Open your terminal or command prompt.
+-Navigate to the directory where you want to store the repository.
+-Run the following command to clone the repository:
+
 
 ```
-Give the example
+git clone [https://github.com/yourusername/btech-interview-questions.git](https://github.com/sayan721137/coding.git)
+
 ```
 
 And repeat
