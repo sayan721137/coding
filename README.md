@@ -94,12 +94,12 @@ To run Our Code We Need To Execute The Following steps:
 cd coding
 ```
 
-### And coding style tests
+### Creating a Class File of Problem
 
-Explain what these tests test and why
+for am example here we chose Fizz_Buzz.java
 
 ```
-Give an example
+Javac Fizz_Buzz.java
 ```
 
 ## Deployment
