@@ -34,11 +34,10 @@
 
 
 
-# What's Inside
+# B-Tech Interview Questions and Answers Repository
 
-The repository contains solutions to various coding interview problems extracted from websites like Hackerrank, Hackerearth, Codechef, Geeks For Geeks, Hackerblocks and Codeforces. I've tried to provide the detailed solution and the intution behind it through comments. These questions are classical problems that are most frequently asked by the tech giants in technical interviews and are not related to hard core competitive coding. All the code provided inside the repository is purely original and completely my own.
+Welcome to the B-Tech Interview Questions and Answers Repository! This repository is designed to help B-Tech students and job seekers prepare for technical interviews by providing a comprehensive collection of common interview questions and detailed answers.
 
-These interview questions are real, they are not pulled out of computer science textbooks. They reflect what's truly being asked at the top companies, so that you can be as prepared as possible.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
