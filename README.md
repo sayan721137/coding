@@ -94,13 +94,22 @@ To run Our Code We Need To Execute The Following steps:
 cd coding
 ```
 
-#### Creating a Class File of Problem
+#### Creating a Class File of a Programming
 
 For am Example here e chose Fizz_Buzz.java Code
 
 ```
 Javac Fizz_Buzz.java
 ```
+
+#### Creating a Class File of a Programming
+
+Now Find there is a new Class file now Run it Using:
+
+```
+Java fizzbuzz
+```
+
 
 ## Deployment
 
