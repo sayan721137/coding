@@ -20,7 +20,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📐 Turning Complex Problems into Simple Solutions ✅
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
-- [![Facebook Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
+- [![Facebook Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Facebook&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
 
 
 ---
