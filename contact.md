@@ -19,7 +19,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🏫Studying b.tech in IT College of Engineering and Management.🎓
 - 📐 Turning Complex Problems into Simple Solutions ✅
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
+- 📫 How to reach me: &nbsp; 
   
 
   
@@ -33,7 +33,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
         width="50"
       />
     </a>
-    <a href="URL_REDIRECT" target="blank">
+    <a href="www.linkedin.com/in/sayan-das-334515269" target="blank">
       <img
         src="https://img.icons8.com/color/48/null/linkedin.png"
         align="center"
@@ -41,7 +41,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
         width="50"
       />
     </a>
-    <a href="URL_REDIRECT" target="blank">
+    <a href="https://www.instagram.com/sayan_das_00_/" target="blank">
       <img
         src="https://img.icons8.com/fluency/48/null/instagram-new.png"
         align="center"
@@ -51,7 +51,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     </a>
     <a href="URL_REDIRECT" target="blank">
       <img
-        src="https://img.icons8.com/color/50/null/tailwindcss.png"
+        src="https://img.icons8.com/color/50/null/facebook.png"
         align="center"
         height="50"
         width="50"
