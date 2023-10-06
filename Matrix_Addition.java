@@ -2,7 +2,7 @@
 import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.Scanner;
-public class five {
+class matrixaddition {
     static void find(int r,int c,int arr1[][],int arr2[][]){
 
         System.out.println("\nFirst Matrix...\n");
