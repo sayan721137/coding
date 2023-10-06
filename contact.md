@@ -20,15 +20,10 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📐 Turning Complex Problems into Simple Solutions ✅
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sayan-das-334515269)
-  <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
+  
+
+  
+  
     
     <a href="URL_REDIRECT" target="blank">
       <img
@@ -118,8 +113,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
         width="50"
       />
     </a>
-  </body>
-</html>
+  
 
 
 ---
