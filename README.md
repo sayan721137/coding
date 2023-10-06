@@ -124,7 +124,7 @@ Java fizzbuzz
 
 ## Owner
 
-###  MySelf Sayan
+
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
@@ -141,7 +141,7 @@ Java fizzbuzz
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Hi Everone MySelf <b>Sayan</b>,i am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🏫Studying b.tech in IT College of Engineering and Management.🎓
 - 📐 Turning Complex Problems into Simple Solutions ✅
