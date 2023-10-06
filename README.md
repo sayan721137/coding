@@ -48,8 +48,10 @@ Welcome to the B-Tech Interview Questions and Answers Repository! This repositor
 - [Introduction](java/JVM.md)
 - [Getting Started](java/JVM.md)
 - [Prerequisites](java/JVM.md)
-- [Contributing](java/JVM.md)
-- [Code of Conduct](java/JVM.md)
+- [Installing](java/JVM.md)
+- [Running](java/JVM.md)
+- [Built With](java/JVM.md)
+- [Owner](java/JVM.md)
 - [License](java/JVM.md)
 
 
@@ -63,7 +65,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-- Install Java - <a href="">Click Me</a>
+- Install Java - <a href="https://www.https://github.com/sayan721137/coding/blob/main/.installJava.md">Click Me</a>
 - Install IDE - <a href="https://www.jetbrains.com/idea/download/?section=windows">Click Me</a>
 
 ## Installing
