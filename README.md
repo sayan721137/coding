@@ -58,7 +58,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- Install Java <a href="">Click Me</a>
+- Install Java - <a href="">Click Me</a>
+- Install IDE - <a href="https://www.jetbrains.com/idea/download/?section=windows">Click Me</a>
 
 ### Installing
 
