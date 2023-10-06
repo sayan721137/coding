@@ -38,6 +38,15 @@
 
 Welcome to the B-Tech Interview Questions and Answers Repository! This repository is designed to help B-Tech students and job seekers prepare for technical interviews by providing a comprehensive collection of common interview questions and detailed answers.
 
+## Table of Contents
+
+- [JVM](java/JVM.md)
+Introduction
+Getting Started
+Contributing
+Code of Conduct
+License
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
