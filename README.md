@@ -117,7 +117,7 @@ Java fizzbuzz
 
 ## Built With
 
-* [Java](http://www.https://www.java.com/en/) - programming language
+* [Java](.https://www.java.com/en/) - programming language
 * [IDE-Intellij](https://https://www.jetbrains.com/idea/) - IDE
 
 
