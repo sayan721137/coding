@@ -65,7 +65,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-- Install Java - <a href="https://www.sayan721137/coding/blob/main/.installJava.md">Click Me</a>
+- Install Java - <a href="sayan721137/coding/blob/main/.installJava.md">Click Me</a>
 - Install IDE - <a href="https://www.jetbrains.com/idea/download/?section=windows">Click Me</a>
 
 ## Installing
