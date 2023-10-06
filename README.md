@@ -94,7 +94,7 @@ To run Our Code We Need To Execute The Following steps:
 cd coding
 ```
 
-#### Creating a Class File of a Programming
+#### Creating a Class File of the Programming
 
 For am Example here e chose Fizz_Buzz.java Code
 
@@ -102,7 +102,7 @@ For am Example here e chose Fizz_Buzz.java Code
 Javac Fizz_Buzz.java
 ```
 
-#### Creating a Class File of a Programming
+#### Execute The class File
 
 Now Find there is a new Class file now Run it Using:
 
@@ -111,15 +111,13 @@ Java fizzbuzz
 ```
 
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Java](http://www.https://www.java.com/en/) - programming language
+* [IDE-intellij](https://https://www.jetbrains.com/idea/) - IDE
+
 
 ## Contributing
 
