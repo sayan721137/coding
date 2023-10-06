@@ -41,11 +41,15 @@ Welcome to the B-Tech Interview Questions and Answers Repository! This repositor
 ## Table of Contents
 
 - [Introduction](java/JVM.md)
-Introduction
-Getting Started
-Contributing
-Code of Conduct
-License
+- [Getting Started](java/JVM.md)
+- [Contributing](java/JVM.md)
+- [Code of Conduct](java/JVM.md)
+- [License](java/JVM.md)
+
+
+## Introduction
+
+B-Tech students often face technical interviews that assess their knowledge in various subjects, including computer science, electronics, mechanical engineering, and more. This repository aims to provide a centralized resource for B-Tech students to prepare for such interviews.
 
 ## Getting Started
 
