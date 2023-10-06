@@ -1,6 +1,6 @@
 //Print Number 1 to n, but replace multiples of 3 with "Fizz", multiples of 5 with "Buzz and multiples of both 3 and 5 with "FizzBuzz".
 import java.util.*;
-public class three {
+public class fizzbizz {
     static void save(int n){
 
         for(int i=1;i<=n;i++){
