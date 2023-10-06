@@ -25,13 +25,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
   
     
-    <a href="URL_REDIRECT" target="blank">
-      <img
-        src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"
-        align="center"
-        height="50"
-        width="50"
-      />
+    
     </a>
     <a href="www.linkedin.com/in/sayan-das-334515269" target="blank">
       <img
@@ -67,7 +61,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
     </a>
     <a href="URL_REDIRECT" target="blank">
       <img
-        src="https://img.icons8.com/plasticine/50/null/react.png"
+        src="https://img.icons8.com/plasticine/50/null/buymeacoffee.png"
         align="center"
         height="50"
         width="50"
