@@ -70,15 +70,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get started with this repository, follow these simple steps:
 
-#### Clone the Repository:
-- Open your terminal or command prompt.
-- Navigate to the directory where you want to store the repository.
-- Run the following command to clone the repository:
+ #### Clone the Repository:
+ - Open your terminal or command prompt.
+ - Navigate to the directory where you want to store the repository.
+ - Run the following command to clone the repository:
 
 
-```
-git clone https://github.com/sayan721137/coding.git
-```
+ ```
+ git clone https://github.com/sayan721137/coding.git
+ ```
 
 
 
