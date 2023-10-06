@@ -61,16 +61,16 @@ B-Tech students often face technical interviews that assess their knowledge in v
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Prerequisites
 
 - Install Java - <a href="">Click Me</a>
 - Install IDE - <a href="https://www.jetbrains.com/idea/download/?section=windows">Click Me</a>
 
-### Installing
+## Installing
 
 To get started with this repository, follow these simple steps:
 
- #### Clone the Repository:
+### Clone the Repository:
  - Open your terminal or command prompt.
  - Navigate to the directory where you want to store the repository.
  - Run the following command to clone the repository:
@@ -82,18 +82,16 @@ To get started with this repository, follow these simple steps:
 
 
 
-End with an example of getting some data out of the system or using it for a little demo
+Ending of Installing Process now It time to test our code..
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+To run Our Code We Need To Execute The Following steps:
 
-### Break down into end to end tests
-
-Explain what these tests test and why
+### Enter The Directory
 
 ```
-Give an example
+cd coding
 ```
 
 ### And coding style tests
