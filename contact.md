@@ -49,7 +49,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
         width="50"
       />
     </a>
-    <a href="URL_REDIRECT" target="blank">
+    <a href="https://www.facebook.com/Sayandas72" target="blank">
       <img
         src="https://img.icons8.com/color/50/null/facebook.png"
         align="center"
@@ -57,9 +57,9 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
         width="50"
       />
     </a>
-    <a href="URL_REDIRECT" target="blank">
+    <a href="https://twitter.com/Sayan_Das_0_0_" target="blank">
       <img
-        src="https://img.icons8.com/color/48/null/sass.png"
+        src="https://img.icons8.com/color/48/null/twitter.png"
         align="center"
         height="50"
         width="50"
