@@ -3,7 +3,7 @@ import java.util.*;
 
 
 
-class Main{
+class prime{
     static void prime(int n){
 
         int m=0,i,flag=0;
