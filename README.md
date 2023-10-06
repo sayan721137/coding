@@ -40,7 +40,7 @@ Welcome to the B-Tech Interview Questions and Answers Repository! This repositor
 
 ## Table of Contents
 
-- [JVM](java/JVM.md)
+- [Introduction](java/JVM.md)
 Introduction
 Getting Started
 Contributing
