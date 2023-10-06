@@ -94,9 +94,9 @@ To run Our Code We Need To Execute The Following steps:
 cd coding
 ```
 
-### Creating a Class File of Problem
+#### Creating a Class File of Problem
 
-for am example here we chose Fizz_Buzz.java
+For am Example here e chose Fizz_Buzz.java Code
 
 ```
 Javac Fizz_Buzz.java
