@@ -70,7 +70,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get started with this repository, follow these simple steps:
 
-### Clone the Repository:
+#### Clone the Repository:
  - Open your terminal or command prompt.
  - Navigate to the directory where you want to store the repository.
  - Run the following command to clone the repository:
@@ -88,7 +88,7 @@ Ending of Installing Process now It time to test our code..
 
 To run Our Code We Need To Execute The Following steps:
 
-### Enter The Directory
+#### Enter The Directory
 
 ```
 cd coding
